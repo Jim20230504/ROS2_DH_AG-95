@@ -1,0 +1,3 @@
+[console_scripts]
+dh_gripper_driver = dh_gripper_driver.driver:main
+

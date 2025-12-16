@@ -1,0 +1,9 @@
+{
+  "package_name": "dh_gripper_msgs",
+  "non_idl_tuples": [
+    "/home/jim/dh_gripper_ws/src/dh_gripper_msgs:msg/GripperCtrl.msg",
+    "/home/jim/dh_gripper_ws/src/dh_gripper_msgs:msg/GripperState.msg",
+    "/home/jim/dh_gripper_ws/src/dh_gripper_msgs:msg/GripperRotCtrl.msg",
+    "/home/jim/dh_gripper_ws/src/dh_gripper_msgs:msg/GripperRotState.msg"
+  ]
+}

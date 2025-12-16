@@ -1,0 +1,8 @@
+msg/GripperCtrl.idl
+msg/GripperCtrl.msg
+msg/GripperRotCtrl.idl
+msg/GripperRotCtrl.msg
+msg/GripperRotState.idl
+msg/GripperRotState.msg
+msg/GripperState.idl
+msg/GripperState.msg

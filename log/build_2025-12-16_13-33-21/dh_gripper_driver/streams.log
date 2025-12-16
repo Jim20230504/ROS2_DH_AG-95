@@ -1,0 +1,37 @@
+[0.485s] Invoking command in '/home/jim/dh_gripper_ws/src/dh_gripper_driver': PYTHONPATH=/home/jim/dh_gripper_ws/build/dh_gripper_driver/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jim/dh_gripper_ws/install/dh_gripper_driver/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/dh_gripper_driver build --build-base /home/jim/dh_gripper_ws/build/dh_gripper_driver/build install --record /home/jim/dh_gripper_ws/build/dh_gripper_driver/install.log --single-version-externally-managed install_data
+[0.652s] running egg_info
+[0.653s] creating ../../build/dh_gripper_driver/dh_gripper_driver.egg-info
+[0.653s] writing ../../build/dh_gripper_driver/dh_gripper_driver.egg-info/PKG-INFO
+[0.653s] writing dependency_links to ../../build/dh_gripper_driver/dh_gripper_driver.egg-info/dependency_links.txt
+[0.653s] writing entry points to ../../build/dh_gripper_driver/dh_gripper_driver.egg-info/entry_points.txt
+[0.653s] writing requirements to ../../build/dh_gripper_driver/dh_gripper_driver.egg-info/requires.txt
+[0.653s] writing top-level names to ../../build/dh_gripper_driver/dh_gripper_driver.egg-info/top_level.txt
+[0.653s] writing manifest file '../../build/dh_gripper_driver/dh_gripper_driver.egg-info/SOURCES.txt'
+[0.654s] reading manifest file '../../build/dh_gripper_driver/dh_gripper_driver.egg-info/SOURCES.txt'
+[0.655s] writing manifest file '../../build/dh_gripper_driver/dh_gripper_driver.egg-info/SOURCES.txt'
+[0.655s] running build
+[0.655s] running build_py
+[0.655s] creating /home/jim/dh_gripper_ws/build/dh_gripper_driver/build
+[0.655s] creating /home/jim/dh_gripper_ws/build/dh_gripper_driver/build/lib
+[0.655s] creating /home/jim/dh_gripper_ws/build/dh_gripper_driver/build/lib/dh_gripper_driver
+[0.655s] copying dh_gripper_driver/driver.py -> /home/jim/dh_gripper_ws/build/dh_gripper_driver/build/lib/dh_gripper_driver
+[0.655s] copying dh_gripper_driver/__init__.py -> /home/jim/dh_gripper_ws/build/dh_gripper_driver/build/lib/dh_gripper_driver
+[0.655s] running install
+[0.655s] running install_lib
+[0.656s] creating /home/jim/dh_gripper_ws/install/dh_gripper_driver/lib/python3.10/site-packages/dh_gripper_driver
+[0.656s] copying /home/jim/dh_gripper_ws/build/dh_gripper_driver/build/lib/dh_gripper_driver/driver.py -> /home/jim/dh_gripper_ws/install/dh_gripper_driver/lib/python3.10/site-packages/dh_gripper_driver
+[0.656s] copying /home/jim/dh_gripper_ws/build/dh_gripper_driver/build/lib/dh_gripper_driver/__init__.py -> /home/jim/dh_gripper_ws/install/dh_gripper_driver/lib/python3.10/site-packages/dh_gripper_driver
+[0.656s] byte-compiling /home/jim/dh_gripper_ws/install/dh_gripper_driver/lib/python3.10/site-packages/dh_gripper_driver/driver.py to driver.cpython-310.pyc
+[0.657s] byte-compiling /home/jim/dh_gripper_ws/install/dh_gripper_driver/lib/python3.10/site-packages/dh_gripper_driver/__init__.py to __init__.cpython-310.pyc
+[0.657s] running install_data
+[0.657s] creating /home/jim/dh_gripper_ws/install/dh_gripper_driver/share/ament_index
+[0.657s] creating /home/jim/dh_gripper_ws/install/dh_gripper_driver/share/ament_index/resource_index
+[0.657s] creating /home/jim/dh_gripper_ws/install/dh_gripper_driver/share/ament_index/resource_index/packages
+[0.657s] copying resource/dh_gripper_driver -> /home/jim/dh_gripper_ws/install/dh_gripper_driver/share/ament_index/resource_index/packages
+[0.657s] copying package.xml -> /home/jim/dh_gripper_ws/install/dh_gripper_driver/share/dh_gripper_driver
+[0.657s] running install_egg_info
+[0.658s] Copying ../../build/dh_gripper_driver/dh_gripper_driver.egg-info to /home/jim/dh_gripper_ws/install/dh_gripper_driver/lib/python3.10/site-packages/dh_gripper_driver-0.0.0-py3.10.egg-info
+[0.659s] running install_scripts
+[0.672s] Installing dh_gripper_driver script to /home/jim/dh_gripper_ws/install/dh_gripper_driver/lib/dh_gripper_driver
+[0.672s] writing list of installed files to '/home/jim/dh_gripper_ws/build/dh_gripper_driver/install.log'
+[0.687s] Invoked command in '/home/jim/dh_gripper_ws/src/dh_gripper_driver' returned '0': PYTHONPATH=/home/jim/dh_gripper_ws/build/dh_gripper_driver/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jim/dh_gripper_ws/install/dh_gripper_driver/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/dh_gripper_driver build --build-base /home/jim/dh_gripper_ws/build/dh_gripper_driver/build install --record /home/jim/dh_gripper_ws/build/dh_gripper_driver/install.log --single-version-externally-managed install_data

@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "dh_gripper_msgs__py",
+		"source" : "/home/jim/dh_gripper_ws/build/dh_gripper_msgs/dh_gripper_msgs__py"
+	}
+}
